@@ -1,6 +1,6 @@
 ### Hi there, I'm Nándor - aka [Dedzsinator][website] 👋
 
-[![Hunguy.cf](https://img.shields.io/website?label=Hunguy.cf&style=for-the-badge&url=https%3A%2F%2Fdedzsinator.github.io)](hunguy.cf)
+[![Hunguy.cf](https://img.shields.io/website?label=Hunguy.cf&style=for-the-badge&url=hunguy.cf)](hunguy.cf)
 <!--[![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/nandor_degi)-->
 
 ## I'm a Student, Developer and a Musician!
