@@ -1,6 +1,6 @@
 ### Hi there, I'm Nándor - aka [Dedzsinator][website] 👋
 
-[![Hunguy.cf](https://img.shields.io/website?label=Hunguy.cf&style=for-the-badge&url=https://dedzsinator.github.io/)](hunguy.cf)
+[![Hunguy.cf](https://img.shields.io/website?label=Hunguy.cf&style=for-the-badge&url=https://dedzsinator.github.io/f)](https://dedzsinator.github.io/)
 <!--[![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/nandor_degi)-->
 
 ## I'm a Student, Developer and a Musician!
@@ -12,47 +12,53 @@
 - ⚡ Fun fact: I have the most time consuming hobbies ever
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Dedzsinator Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Dedzsinator Spotify Playing"
+  width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
-[<img align="left" alt="hunguy.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nandor.degi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="degi.nandor | Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
+[<img align="left" alt="hunguy.cf" width="22px"
+  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nandor.degi | Instagram" width="22px"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="degi.nandor | Fiverr" width="22px"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/c#.png" />
-
-<img align="left" alt="C/C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/c++.png" />
-
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/unity.png" />
-
-<img align="left" alt="Spotify" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/spotify.png" />
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
+    alt="android" width="40" height="40" /> <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40"
+    height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
+    alt="cplusplus" width="40" height="40" /> <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40"
+    height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
+    alt="css3" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+    alt="firebase" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="git" width="40" height="40" /> <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"
+    height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
+    alt="java" width="40" height="40" /> <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"
+    width="40" height="40" /> <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
+    width="40" height="40" /> <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"
+    height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="nodejs" width="40" height="40" /> <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40"
+    height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php"
+    width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
+    alt="python" width="40" height="40" /> <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40"
+    height="40" /> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"
+    width="40" height="40" /> <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40"
+    height="40" /></p>
 
 <br />
 <br />
@@ -85,7 +91,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Dedzsinators's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dedzsinator&show_icons=true&hide_border=true" />
+  <img align="left" alt="Dedzsinators's Github Stats"
+    src="https://github-readme-stats.codestackr.vercel.app/api?username=Dedzsinator&show_icons=true&hide_border=true" />
 
 </details>
 
