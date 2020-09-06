@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I have the most time consuming hobbies ever
 
 ### Spotify Playing 🎧
-[![Spotify](https://now-playing.dedzsinator.vercel.app/api/spotify)](https://open.spotify.com/user/21fc4mhtehzlfg7e3kmlm5eli)
+[![Spotify](https://now-playing.dedzsinator.vercel.app/api/spotify.py)](https://open.spotify.com/user/21fc4mhtehzlfg7e3kmlm5eli)
 
 ### Connect with me:
 
