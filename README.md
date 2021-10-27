@@ -56,15 +56,15 @@
         
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40" /> 
         
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"alt="nodejs" width="40" height="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" /> 
         
   <img src="https://commons.wikimedia.org/wiki/File:Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40" />
     
-  <img src="https://commons.wikimedia.org/wiki/File:Adobe_Premiere_Pro_CC_icon.svg" alt="photoshop" width="40" height="40" />
+  <img src="https://commons.wikimedia.org/wiki/File:Adobe_Premiere_Pro_CC_icon.svg" alt="premiere pro" width="40" height="40" />
     
   <img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" width="40" height="40" /> 
         
-  <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" />
         
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" />
         
