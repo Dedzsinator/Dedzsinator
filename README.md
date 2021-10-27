@@ -38,7 +38,7 @@
     
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40" />
                                                                                                                              
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  <img src="https://img.icons8.com/color/100/000000/c-sharp-logo.png" alt="C#" />
                                                                                                                                   
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40" />
     
@@ -50,7 +50,7 @@
                                                                                                               
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40" />
     
-  <img src="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40" />
+  <img src="https://img.icons8.com/color/100/000000/javascript--v1.png" alt="javascript" />
     
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40" />
         
