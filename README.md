@@ -12,9 +12,7 @@
 - ⚡ Fun fact: I have the most time consuming hobbies ever
 
 ### Spotify Playing 🎧
-<a href="https://natemoo-re.dedzsinator.vercel.app/now-playing?open">
-    <img src="https://natemoo-re.dedzsinator.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+![spotify-github-profile](/img/default.svg)
 
 ### Connect with me:
 
