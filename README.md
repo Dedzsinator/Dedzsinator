@@ -92,7 +92,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedzsinator)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedzsinator)](https://github.com/Dedzsinator?tab=repositories)
 </details>
 
 [website]: hunguy.cf
