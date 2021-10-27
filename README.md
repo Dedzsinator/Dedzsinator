@@ -92,9 +92,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Dedzsinators's Github Stats"
-    src="https://github-readme-stats.codestackr.vercel.app/api?username=Dedzsinator&show_icons=true&hide_border=true" />
-
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedzsinator)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [website]: hunguy.cf
