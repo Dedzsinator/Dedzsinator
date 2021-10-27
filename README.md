@@ -75,7 +75,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript"
     width="40" height="40" /> <img
-    src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svgg" alt="vuejs" width="40"
+    src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40"
     height="40" /></p>
 
 <br />
