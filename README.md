@@ -78,8 +78,6 @@
         
    </p>
 
-<br />
-
 <!--
 ### 📕 Latest Blog Posts
 
