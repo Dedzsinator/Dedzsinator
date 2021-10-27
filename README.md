@@ -58,9 +58,9 @@
         
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" /> 
         
-  <img src="https://commons.wikimedia.org/wiki/File:Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40" />
+  <img src="https://img.icons8.com/color/100/000000/adobe-photoshop--v1.png" alt="photoshop" width="40" height="40" />
     
-  <img src="https://commons.wikimedia.org/wiki/File:Adobe_Premiere_Pro_CC_icon.svg" alt="premiere pro" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" alt="premiere pro" width="40" height="40" />
     
   <img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" width="40" height="40" /> 
         
