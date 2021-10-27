@@ -29,36 +29,53 @@
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
+<p align="left">
+    <img src="https://commons.wikimedia.org/wiki/File:Ableton.svg" alt="ableton" width="40" height="40" />
+    
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg"
     alt="android" width="40" height="40" /> <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40"
-    height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
+                                                 
+    src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="40"
+    height="40" /> <img src=https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
     alt="cplusplus" width="40" height="40" /> <img
+    
     src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40"
-    height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
-    alt="css3" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-    alt="firebase" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    height="40" /> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"
+    alt="css3" width="40" height="40" />
+    
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+    alt="firebase" width="40" height="40" />
+    
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     alt="git" width="40" height="40" /> <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"
-    height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
-    alt="java" width="40" height="40" /> <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"
+    
+    src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40"
+    height="40" /> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
+    alt="java" width="40" height="40" />
+    
+    <img
+    src="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg" alt="javascript"
+    width="40" height="40" />
+    
+    <img
+    src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"
     width="40" height="40" /> <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
-    width="40" height="40" /> <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"
-    height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs" width="40" height="40" /> <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40"
-    height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php"
-    width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
+    src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40"
+    height="40" /> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
+    alt="nodejs" width="40" height="40" /> 
+    <img src="https://commons.wikimedia.org/wiki/File:Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40" />
+    
+    <img src="https://commons.wikimedia.org/wiki/File:Adobe_Premiere_Pro_CC_icon.svg" alt="photoshop" width="40" height="40" />
+    
+    <img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php"
+    width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg"
     alt="python" width="40" height="40" /> <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40"
+    src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40"
     height="40" /> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript"
     width="40" height="40" /> <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40"
+    src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svgg" alt="vuejs" width="40"
     height="40" /></p>
 
 <br />
