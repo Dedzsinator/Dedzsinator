@@ -64,7 +64,7 @@
     
   <img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" width="40" height="40" /> 
         
-  <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="100"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="100"/>
         
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" />
         
