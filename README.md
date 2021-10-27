@@ -30,7 +30,7 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://commons.wikimedia.org/wiki/File:Ableton.svg" alt="ableton" width="40" height="40" />
+  <img src="https://img.icons8.com/ios-filled/100/000000/ableton.png"  alt="ableton" width="40" height="40" />
     
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40" />
     
@@ -38,7 +38,7 @@
     
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40" />
                                                                                                                              
-  <img src="https://img.icons8.com/color/100/000000/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/color/100/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
                                                                                                                                   
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40" />
     
@@ -50,7 +50,7 @@
                                                                                                               
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40" />
     
-  <img src="https://img.icons8.com/color/100/000000/javascript--v1.png" alt="javascript" />
+  <img src="https://img.icons8.com/color/100/000000/javascript--v1.png" alt="javascript" width="40" height="40"/>
     
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40" />
         
