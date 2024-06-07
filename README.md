@@ -1,15 +1,9 @@
-### Hi there, I'm Nándor - aka [Dedzsinator][website] 👋
+### Hi there, I'm Nándor - aka [Dángó][website] 👋
 
 [![Hunguy.cf](https://img.shields.io/website?label=Hunguy.cf&style=for-the-badge&url=https://dedzsinator.github.io/)](https://dedzsinator.github.io/)
 <!--[![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/nandor_degi)-->
 
 ## I'm a Student, Developer and a Musician!
-
-- 🔭 I’m currently working on a [Food Ordering App][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I want to write some songs in the future
-- 🥅 2020 Goals: Contribute more to Github
-- ⚡ Fun fact: I have the most time consuming hobbies ever
 
 ### Spotify Playing 🎧
 ![spotify-github-profile](/img/default.svg)
@@ -107,7 +101,7 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedzsinator)](https://github.com/Dedzsinator?tab=repositories)
 </details>
 
-[website]: hunguy.cf
+[website]: https://dedzsinator.github.io/
 [instagram]: https://www.instagram.com/nandor_degi
 [fiverr]: https://www.fiverr.com/degi_nandor
 <!--[twitter]: https://twitter.com/codeSTACKr
