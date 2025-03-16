@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **degi.nandor@gmail.com** or at [Linkedin](https://www.linkedin.com/in/n%C3%A1ndor-d%C3%A9gi-867729170)
 
-- 📄 Know about my experiences [My CV](https://github.com/Dedzsinator/Dedzsinator/blob/master/CV.pdf)
+- 📄 Know about my experiences [CV](https://github.com/Dedzsinator/Dedzsinator/blob/master/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
