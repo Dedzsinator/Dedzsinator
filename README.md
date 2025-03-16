@@ -9,9 +9,9 @@
 
 - 📝 I made a mini blog a while ago. [https://dedzsinator.github.io/](https://dedzsinator.github.io/)
 
-- 📫 How to reach me: **degi.nandor@gmail.com or at https://www.linkedin.com/in/n%C3%A1ndor-d%C3%A9gi-867729170/**
+- 📫 How to reach me: **degi.nandor@gmail.com** or at [Linkedin](https://www.linkedin.com/in/n%C3%A1ndor-d%C3%A9gi-867729170)
 
-- 📄 Know about my experiences [My CV]([https://www.overleaf.com/9414667649mhpfnzypbzmx#83bb66](https://github.com/Dedzsinator/Dedzsinator/blob/master/CV.pdf))
+- 📄 Know about my experiences [My CV](https://github.com/Dedzsinator/Dedzsinator/blob/master/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
